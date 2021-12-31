@@ -19,3 +19,23 @@ Importando Dados:
             . Criar diferentes tipos de células dentro do Jupyter
             . Acessar a documentação
             . Como reexecutar todas células
+            
+
+Series e Index:
+    
+    Nesta aula, aprendemos: 
+        . Como selecionar uma variável do DataFrame(por exemplo, dados['Tipo'] ou dados.Tipo)
+        . Que um DataFrame é composto de várias Series.
+        . Como eliminar duplicatas(pelo método drop_duplicates())
+        . Como redefinir o index de um DataFrame e Series(atributo index)
+        . Como concatenar DataFrames(lembrando do axis)
+        . Como criar novos DataFrames baseados em estruturas de dados
+        Python(lista, dicionários ou tuples)
+        
+Filtrando Dados:
+    Nesta aula, vimos como:
+        . Criar uma Series booleana usando o método isin() a partir do dataframe
+        . Filtrar os dados de um dataframe baseado na Series booleana
+        . Exportar e gravar os dados do dataframe(método to_csv())
+        . Ordenar os dados de um dataframe(métodos sort_values() e sort_index())
+        
